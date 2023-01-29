@@ -1,0 +1,59 @@
+{
+  "dev": {
+    "sc01": {
+      "firstname" : "Anderson",
+      "lastname" : "Duque",
+      "totalprice" : 1110,
+      "depositpaid" : true,
+      "bookingdates" : {
+        "checkin" : "2023-01-01",
+        "checkout" : "2023-01-10"
+      },
+      "additionalneeds" : "Breakfast"
+    },
+    "sc02": {
+      "firstname" : null,
+      "lastname" : "Duque",
+      "totalprice" : 1110,
+      "depositpaid" : true,
+      "bookingdates" : {
+        "checkin" : "2023-01-01",
+        "checkout" : "2023-01-10"
+      },
+      "additionalneeds" : "Breakfast"
+    },
+    "sc03": {
+      "firstname" : "Anderson",
+      "lastname" : null,
+      "totalprice" : 1110,
+      "depositpaid" : true,
+      "bookingdates" : {
+        "checkin" : "2023-01-01",
+        "checkout" : "2023-01-10"
+      },
+      "additionalneeds" : "Breakfast"
+    },
+    "sc04": {
+      "firstname" : "Anderson",
+      "lastname" : "Duque",
+      "totalprice" : null,
+      "depositpaid" : true,
+      "bookingdates" : {
+        "checkin" : "2023-01-01",
+        "checkout" : "2023-01-10"
+      },
+      "additionalneeds" : "Breakfast"
+    },
+    "sc05": {
+      "firstname" : "Anderson",
+      "lastname" : "Duque",
+      "totalprice" : 1110,
+      "depositpaid" : null,
+      "bookingdates" : {
+        "checkin" : "2023-01-01",
+        "checkout" : "2023-01-10"
+      },
+      "additionalneeds" : "Breakfast"
+    }
+  }
+}

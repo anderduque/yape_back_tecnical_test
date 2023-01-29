@@ -1,0 +1,11 @@
+{
+  "firstname" : "#(dataTest.firstname)",
+  "lastname" : "#(dataTest.lastname)",
+  "totalprice" : "#(dataTest.totalprice)",
+  "depositpaid" : "#(dataTest.depositpaid)",
+  "bookingdates" : {
+    "checkin" : "#(dataTest.bookingdates.checkin)",
+    "checkout" : "#(dataTest.bookingdates.checkout)"
+  },
+  "additionalneeds" : "#(dataTest.additionalneeds)"
+}

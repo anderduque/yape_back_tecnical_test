@@ -1,0 +1,8 @@
+{
+  "dev":{
+    "sc01": {
+      "username" : "admin",
+      "password" : "password123"
+    }
+  }
+}
